@@ -1,4 +1,4 @@
-# *The_Guardian*_crossword
+# *The Guardian* crossword
 
 App to redirect to the published crossword of the day by either *The Guardian* or *The Observer*
 
