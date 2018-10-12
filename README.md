@@ -10,10 +10,12 @@ App to redirect to the published crossword of the day by either *The Guardian* o
 
 *The Observer*, sister company, to *The Guardian* provides a speedy crossword on Sunday.
 
-When run, this app automatically redirects to the quick crossword of the day unless it is a Sunday whereby it redirects to the speedy crossword.
+When run, this app automatically redirects to the Quick Crossword of the day unless it is a Sunday in which it redirects to the Speedy Crossword.
 
 ## How to run
 
-For personal use, one can create an applet on their android device from a url which runs the app in javascript such as https://jsfiddle.net/467Luazq/ and enable pop-ups.
+For personal use on android, one can create an 'add-to-home-screen' from a codepen, or similar, url.
+
+An example:  https://jsfiddle.net/467Luazq/
 
 
