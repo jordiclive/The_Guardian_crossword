@@ -14,6 +14,6 @@ When run, this app automatically redirects to the quick crossword of the day unl
 
 ## How to run
 
-For personal use, one can create an applet on their android device from a url which runs the app in javascript such as 
+For personal use, one can create an applet on their android device from a url which runs the app in javascript such as https://jsfiddle.net/467Luazq/ and enable pop-ups.
 
 
