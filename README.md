@@ -16,6 +16,6 @@ When run, this app automatically redirects to the Quick Crossword of the day unl
 
 For personal use on android, one can create an 'add-to-home-screen' from a codepen, or similar, url.
 
-An example:  https://jsfiddle.net/467Luazq/
+An example:  https://jsfiddle.net/467Luazq/2
 
 
